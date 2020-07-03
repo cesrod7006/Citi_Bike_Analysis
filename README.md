@@ -28,7 +28,7 @@ However, while the data has been regularly updated, the team has yet to implemen
 * Based on the data for the year of 2018 we could conclude that ridership increases during the spring and summer months while declines during colder months such as November and January as shown in this worksheet.
     * ![Ridership through 2018](Images/Ridership_through_2018.png) 
 
-# There are many more findings in the workbook which includes the story of the entire project. 
+# There are many more "Phenomenon" Visualizations in the workbook which includes the story of the entire project. 
 
 
 
